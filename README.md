@@ -10,3 +10,5 @@ The notification message is on top of the file, you can edit the text as you wis
 It both restricts new user register form & chechout page form.
 
 It would not collapse with other tooltip plugins. The project I wrote this code was blocking .tooltip() functions somehow, so I wrote simple standalone tooltip to it.
+
+The code is depends on Jquery.
