@@ -1,7 +1,7 @@
 # eduValidate
 Domain extension limitation for new users for EDD (Easy Digital Downloads) plugin for Wordpress
 
-This code is created for limitation of .edu, .ac, and .sch.co.uk domain extensions. You can modify it for other domains.
+This code is created for limitation of email addresses which are ending with .edu, .ac, and .sch.co.uk domain extensions. You can modify it for other domains.
 
 It loads CSS to head of html page,if you prefer to add css separately, you can cut the style part from js files and add it to your CSS file or a separate CSS file.
 
